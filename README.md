@@ -1,23 +1,9 @@
-# Hi 👋 I'm M. Thirumaran
+Hey! I'm **M. Thirumaran**, a Computer Science and Engineering student passionate about software development, mobile applications, and problem-solving.
 
-Computer Science and Engineering Student
+- 🎓 CSE student exploring software engineering and application development.
+- 💻 Working with **Java, Python, Flutter, Dart, SQL, and machine learning**.
+- 🏋️ Building **IronLog**, an offline fitness and nutrition tracking app using Flutter and SQLite.
+- 🌱 Continuously learning new technologies and improving my development skills.
+- 🚀 Interested in building practical applications that solve real-world problems.
 
-## Skills
-
-- Java
-- C
-- SQL
-- Machine Learning
-- Flask
-
-## Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-
-## Projects
-
-IronLog-Offline fitness and nutrition tracking app built with Flutter.
-OCR-Based Street Sign Transliteration System
-Waste Reduction and Recycling Rate Prediction System
+**Currently focused on:** Strengthening my programming skills, building projects, and growing as a software developer.

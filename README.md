@@ -7,7 +7,6 @@ Computer Science and Engineering Student
 - Java
 - C
 - SQL
-- HTML
 - Machine Learning
 - Flask
 
@@ -19,5 +18,6 @@ Computer Science and Engineering Student
 
 ## Projects
 
-- Waste Reduction and Recycling Rate Prediction System
-- AI-Enhanced Ultrasonic Radar
+IronLog-Offline fitness and nutrition tracking app built with Flutter.
+OCR-Based Street Sign Transliteration System
+Waste Reduction and Recycling Rate Prediction System
